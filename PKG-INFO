@@ -1,0 +1,15 @@
+Metadata-Version: 1.0
+Name: matplotlib-aipy
+Version: 2.1.0
+Summary: Python plotting package, this is the prebuilt version for QPython (AiPy branch)
+Home-page: http://matplotlib.org
+Author: John D. Hunter, Michael Droettboom
+Author-email: info@numfocus.org
+License: BSD
+Description: 
+        
+        Matplotlib strives to produce publication quality 2D graphics
+        for interactive graphing, scientific publishing, user interface development and web application servers targeting multiple user interfaces and hardcopy output formats. There is a 'pylab' mode which emulates matlab graphics.
+        
+        
+Platform: UNKNOWN
